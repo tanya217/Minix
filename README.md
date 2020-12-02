@@ -1,6 +1,6 @@
-# Process Scheduling
-# Domain: Operating Systems
-# 5th semester - October 2017
+Process Scheduling
+Domain: Operating Systems
+5th semester - October 2017
 
 What?
 MINIX is a small, open source UNIX clone that was first released in January 1987. 
